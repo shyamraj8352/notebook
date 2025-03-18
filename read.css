@@ -2,4 +2,7 @@ body{
     background-color: brown;
     -ms-flex-align: center;
     font-size: 25px;
+cursor: pointer;
+color: rgb(223, 223, 209);
+font-size: 35px;
 }
